@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './components/Header';
-import EngineerCard from './components/EngineerCard';
-import { ENGINEERS_DATA } from './constants';
+import Header from './components/Header.tsx';
+import EngineerCard from './components/EngineerCard.tsx';
+import { ENGINEERS_DATA } from './constants.ts';
 
 const App: React.FC = () => {
   return (
