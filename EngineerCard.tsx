@@ -1,5 +1,5 @@
 import React from 'react';
-import type { Engineer } from '../types';
+import type { Engineer } from '../types.ts';
 
 interface EngineerCardProps {
   engineer: Engineer;
