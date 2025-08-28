@@ -1,4 +1,4 @@
-import type { Engineer } from './types';
+import type { Engineer } from './types.ts';
 
 export const ENGINEERS_DATA: Engineer[] = [
   {
