@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './components/Header.tsx';
-import EngineerCard from './components/EngineerCard.tsx';
+import Header from 'Header.tsx';
+import EngineerCard from 'EngineerCard.tsx';
 import { ENGINEERS_DATA } from './constants.ts';
 
 const App: React.FC = () => {
